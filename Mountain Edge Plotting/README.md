@@ -47,7 +47,7 @@ Sample Test Image example:
 
 - Output
 
-![mountain](../master/part2/output_images/mountain_output.jpg)
+![mountain](https://github.com/desaivishwas/Topics-in-Artificial-Intelligence/blob/58183424c656d3c531a21df8e39d67b8e3cfc1be/Mountain%20Edge%20Plotting/mountain_output.jpg)
 
 
 ## References: 
